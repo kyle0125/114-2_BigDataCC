@@ -1,6 +1,8 @@
 ## pwd
 student122@linux-server1:~$ pwd
 /home/student122
+
 ## ls
 student122@linux-server1:~$ ls
 README.txt  documents  exercises  myfile.txt  projects  scripts
+

@@ -1,12 +1,35 @@
+姓名：廖紹凱
+學號：C112181124
+
+=== whoami ===
+student122@linux-server1:~$ whoami
+student122
+
+=== hostname ===
+student122@linux-server1:~$ hostname
+linux-server1
+
+=== pwd ===
 ## pwd
 student122@linux-server1:~$ pwd
 /home/student122
 
+=== uname -a ===
+student122@linux-server1:~$ uname -a
+Linux linux-server1 6.1.163-186.299.amzn2023.x86_64 #1 SMP PREEMPT_DYNAMIC Tue Feb 24 16:35:42 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+=== date ===
+student122@linux-server1:~$ date
+Tue Mar 24 05:55:47 UTC 2026
+
+
+=== ls / ===
 ## ls
 student122@linux-server1:~$ ls
 README.txt  documents  exercises  myfile.txt  projects  scripts
 
 
+=== ls -la ~ ===
 ## ls -la
 student122@linux-server1:~$ ls -la
 total 36

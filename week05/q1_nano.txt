@@ -36,4 +36,4 @@ Expectation: Learn basic Linux operations and system administration skills
 Ctrl + O：儲存
 Ctrl + X：離開 
 Ctrl + K：剪下
-Ctrl + U：貼上
+Ctrl + U：貼上 
